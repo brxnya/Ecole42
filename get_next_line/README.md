@@ -1,1 +1,1 @@
-# get_next_line realization on C languagw
+# get_next_line realization on C language
