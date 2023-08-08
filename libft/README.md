@@ -1,1 +1,1 @@
-# implementation of the standard ```libft``` library function
+# Implementation of the standard ```libft``` library function
